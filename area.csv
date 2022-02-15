@@ -1,0 +1,692 @@
+"area_pk","area_name","reporting_district_num"
+1,"Wilshire",732
+2,"Northeast",1112
+3,"Harbor",551
+4,"77th Street",1269
+5,"Harbor",562
+6,"77th Street",1267
+7,"Van Nuys",948
+8,"West LA",892
+9,"Northeast",1148
+10,"Pacific",1445
+11,"Hollenbeck",455
+12,"West Valley",1063
+13,"Southwest",318
+14,"Southeast",1822
+15,"Newton",1321
+16,"Wilshire",734
+17,"Van Nuys",904
+18,"Pacific",1415
+19,"Rampart",235
+20,"Hollywood",615
+21,"Newton",1363
+22,"N Hollywood",1506
+23,"Wilshire",706
+24,"77th Street",1268
+25,"Central",182
+26,"Foothill",1668
+27,"Harbor",563
+28,"Foothill",1612
+29,"77th Street",1256
+30,"West LA",891
+31,"Southeast",1824
+32,"Topanga",2177
+33,"Wilshire",701
+34,"Central",111
+35,"West Valley",1024
+36,"Northeast",1142
+37,"Olympic",2071
+38,"N Hollywood",1531
+39,"Topanga",2162
+40,"Topanga",2142
+41,"Topanga",2138
+42,"Wilshire",759
+43,"Topanga",2143
+44,"Southwest",397
+45,"N Hollywood",1544
+46,"Topanga",2189
+47,"Hollywood",622
+48,"Central",161
+49,"Van Nuys",946
+50,"Harbor",564
+51,"Wilshire",742
+52,"N Hollywood",1596
+53,"Central",162
+54,"West LA",831
+55,"77th Street",1203
+56,"Pacific",1412
+57,"Topanga",2128
+58,"Southeast",1821
+59,"Southeast",1802
+60,"Foothill",1605
+61,"West LA",841
+62,"Pacific",1443
+63,"Harbor",513
+64,"Wilshire",724
+65,"Southwest",356
+66,"Pacific",1466
+67,"Devonshire",1771
+68,"Pacific",1453
+69,"Olympic",2029
+70,"Pacific",1414
+71,"West Valley",1015
+72,"West Valley",1033
+73,"Hollenbeck",409
+74,"Topanga",2146
+75,"West LA",842
+76,"Pacific",1467
+77,"Pacific",1432
+78,"77th Street",1207
+79,"Central",152
+80,"77th Street",1258
+81,"Central",185
+82,"Northeast",1172
+83,"Mission",1901
+84,"Wilshire",753
+85,"Hollywood",628
+86,"Newton",1395
+87,"Mission",1908
+88,"Newton",1353
+89,"Southwest",336
+90,"Northeast",1186
+91,"Olympic",2025
+92,"Olympic",2024
+93,"Central",121
+94,"Southeast",1804
+95,"Foothill",1653
+96,"Hollenbeck",478
+97,"Central",143
+98,"Hollenbeck",421
+99,"Southwest",315
+100,"N Hollywood",1503
+101,"West LA",839
+102,"Southeast",1839
+103,"Mission",1985
+104,"Rampart",239
+105,"Olympic",2099
+106,"Devonshire",1766
+107,"Mission",1983
+108,"Southwest",326
+109,"Mission",1971
+110,"Hollywood",645
+111,"Rampart",275
+112,"Van Nuys",929
+113,"Southeast",1851
+114,"Southwest",321
+115,"Harbor",521
+116,"Van Nuys",971
+117,"77th Street",1218
+118,"Southwest",377
+119,"Topanga",2105
+120,"Wilshire",762
+121,"West LA",829
+122,"Hollenbeck",429
+123,"N Hollywood",1512
+124,"Southwest",329
+125,"Van Nuys",914
+126,"Rampart",221
+127,"Mission",1964
+128,"West Valley",1004
+129,"Central",142
+130,"N Hollywood",1555
+131,"Northeast",1143
+132,"N Hollywood",1585
+133,"West LA",837
+134,"Topanga",2185
+135,"Northeast",1141
+136,"West Valley",1094
+137,"Southwest",394
+138,"Harbor",566
+139,"Rampart",245
+140,"Olympic",2097
+141,"Northeast",1183
+142,"Southeast",1864
+143,"Van Nuys",926
+144,"Southwest",361
+145,"Olympic",2016
+146,"Foothill",1684
+147,"Rampart",266
+148,"N Hollywood",1513
+149,"Wilshire",765
+150,"Olympic",2035
+151,"Wilshire",783
+152,"Mission",1918
+153,"Southeast",1801
+154,"Southwest",337
+155,"Mission",1993
+156,"Harbor",526
+157,"Central",138
+158,"N Hollywood",1599
+159,"Southwest",303
+160,"West Valley",1035
+161,"Devonshire",1797
+162,"Pacific",1488
+163,"West LA",882
+164,"Central",166
+165,"Hollywood",648
+166,"West LA",832
+167,"Van Nuys",981
+168,"Southwest",341
+169,"Harbor",514
+170,"Central",163
+171,"Topanga",2196
+172,"Wilshire",702
+173,"Southwest",391
+174,"Foothill",1691
+175,"Foothill",1622
+176,"Harbor",503
+177,"Central",191
+178,"West Valley",1089
+179,"Wilshire",736
+180,"Pacific",1458
+181,"Central",156
+182,"Mission",1995
+183,"Van Nuys",905
+184,"Foothill",1665
+185,"Olympic",2001
+186,"Southwest",375
+187,"Van Nuys",935
+188,"Foothill",1655
+189,"Newton",1313
+190,"Rampart",251
+191,"Hollywood",636
+192,"Newton",1327
+193,"Wilshire",735
+194,"Mission",1991
+195,"Wilshire",774
+196,"Southwest",359
+197,"Southeast",1842
+198,"Southwest",363
+199,"Topanga",2157
+200,"Northeast",1178
+201,"Rampart",202
+202,"Pacific",1416
+203,"77th Street",1211
+204,"N Hollywood",1591
+205,"Mission",1977
+206,"Hollywood",677
+207,"Pacific",1452
+208,"Newton",1367
+209,"Southeast",1829
+210,"Olympic",2036
+211,"Southeast",1863
+212,"West LA",838
+213,"N Hollywood",1526
+214,"77th Street",1205
+215,"Van Nuys",909
+216,"Rampart",299
+217,"Mission",1944
+218,"Van Nuys",943
+219,"Van Nuys",919
+220,"N Hollywood",1557
+221,"Hollenbeck",487
+222,"Northeast",1123
+223,"Central",192
+224,"Van Nuys",985
+225,"77th Street",1213
+226,"Central",145
+227,"West Valley",1011
+228,"Wilshire",711
+229,"Southwest",328
+230,"Southeast",1861
+231,"Devonshire",1761
+232,"Olympic",2033
+233,"Mission",1967
+234,"Rampart",238
+235,"Central",141
+236,"Olympic",2005
+237,"Southwest",398
+238,"Olympic",2022
+239,"77th Street",1241
+240,"Rampart",291
+241,"Wilshire",764
+242,"Pacific",1444
+243,"Southeast",1831
+244,"Van Nuys",941
+245,"Foothill",1663
+246,"Van Nuys",911
+247,"Rampart",246
+248,"West Valley",1031
+249,"Northeast",1125
+250,"West LA",881
+251,"Harbor",529
+252,"N Hollywood",1519
+253,"Newton",1393
+254,"Topanga",2187
+255,"Southeast",1835
+256,"Devonshire",1716
+257,"Harbor",516
+258,"Hollenbeck",412
+259,"Southeast",1834
+260,"Hollywood",643
+261,"Rampart",248
+262,"Mission",1981
+263,"West Valley",1025
+264,"77th Street",1266
+265,"West Valley",1008
+266,"Pacific",1427
+267,"Foothill",1638
+268,"Hollywood",666
+269,"Hollenbeck",416
+270,"Central",119
+271,"Southwest",334
+272,"Northeast",1176
+273,"Rampart",279
+274,"Mission",1902
+275,"Newton",1344
+276,"Devonshire",1764
+277,"Hollenbeck",453
+278,"Central",128
+279,"Rampart",265
+280,"N Hollywood",1545
+281,"West LA",898
+282,"77th Street",1253
+283,"Wilshire",784
+284,"Southwest",312
+285,"Northeast",1132
+286,"Foothill",1693
+287,"West LA",889
+288,"77th Street",1242
+289,"Wilshire",721
+290,"77th Street",1231
+291,"Hollenbeck",422
+292,"Pacific",1494
+293,"Rampart",233
+294,"Southeast",1846
+295,"N Hollywood",1527
+296,"Central",139
+297,"West LA",801
+298,"Devonshire",1751
+299,"West LA",833
+300,"Hollenbeck",468
+301,"Southwest",319
+302,"Northeast",1101
+303,"Central",135
+304,"Topanga",2126
+305,"Wilshire",782
+306,"77th Street",1235
+307,"Foothill",1623
+308,"Rampart",212
+309,"Mission",1921
+310,"West Valley",1003
+311,"Southwest",395
+312,"Newton",1361
+313,"Wilshire",789
+314,"Hollenbeck",427
+315,"Olympic",2041
+316,"Rampart",285
+317,"West Valley",1001
+318,"N Hollywood",1569
+319,"N Hollywood",1548
+320,"West LA",822
+321,"Hollywood",621
+322,"Rampart",219
+323,"Newton",1354
+324,"Topanga",2114
+325,"Olympic",2042
+326,"Mission",1952
+327,"Southeast",1805
+328,"Van Nuys",915
+329,"West LA",808
+330,"Van Nuys",963
+331,"Foothill",1633
+332,"Hollenbeck",497
+333,"West Valley",1045
+334,"West Valley",1018
+335,"Northeast",1113
+336,"Foothill",1675
+337,"77th Street",1257
+338,"Southwest",305
+339,"Pacific",1409
+340,"Northeast",1181
+341,"Devonshire",1753
+342,"Olympic",2079
+343,"N Hollywood",1535
+344,"Devonshire",1794
+345,"Central",195
+346,"Olympic",2081
+347,"Newton",1342
+348,"Topanga",2118
+349,"Devonshire",1783
+350,"Pacific",1424
+351,"Wilshire",722
+352,"Hollenbeck",477
+353,"Northeast",1145
+354,"Van Nuys",957
+355,"N Hollywood",1567
+356,"Olympic",2019
+357,"Central",153
+358,"Olympic",2088
+359,"Hollenbeck",414
+360,"77th Street",1245
+361,"Newton",1303
+362,"West LA",857
+363,"Harbor",589
+364,"West LA",852
+365,"Topanga",2134
+366,"Central",146
+367,"Van Nuys",932
+368,"77th Street",1232
+369,"Olympic",2023
+370,"West Valley",1027
+371,"Mission",1959
+372,"Hollywood",625
+373,"Devonshire",1795
+374,"West Valley",1067
+375,"West LA",836
+376,"Devonshire",1712
+377,"Northeast",1139
+378,"Devonshire",1749
+379,"77th Street",1208
+380,"West Valley",1012
+381,"Southeast",1832
+382,"Topanga",2136
+383,"77th Street",1265
+384,"Hollenbeck",457
+385,"Northeast",1124
+386,"West Valley",1028
+387,"Pacific",1446
+388,"Foothill",1641
+389,"Mission",1984
+390,"N Hollywood",1522
+391,"West Valley",1021
+392,"Newton",1372
+393,"Harbor",528
+394,"Central",171
+395,"Hollywood",663
+396,"Harbor",522
+397,"Pacific",1406
+398,"N Hollywood",1581
+399,"Olympic",2013
+400,"Newton",1383
+401,"Rampart",218
+402,"West Valley",1047
+403,"Newton",1345
+404,"Hollywood",678
+405,"West LA",805
+406,"Devonshire",1735
+407,"Hollywood",656
+408,"Northeast",1129
+409,"Southwest",308
+410,"Central",174
+411,"Southwest",392
+412,"Rampart",269
+413,"Wilshire",776
+414,"Wilshire",743
+415,"N Hollywood",1502
+416,"Pacific",1441
+417,"Hollenbeck",448
+418,"Hollywood",668
+419,"Hollenbeck",469
+420,"Topanga",2141
+421,"Hollywood",635
+422,"77th Street",1239
+423,"Harbor",511
+424,"Rampart",237
+425,"77th Street",1219
+426,"West Valley",1043
+427,"Wilshire",737
+428,"Hollywood",646
+429,"Devonshire",1787
+430,"Pacific",1436
+431,"Harbor",555
+432,"Harbor",501
+433,"Devonshire",1717
+434,"Pacific",1435
+435,"Devonshire",1781
+436,"Southeast",1827
+437,"Pacific",1487
+438,"Northeast",1135
+439,"West Valley",1065
+440,"Newton",1362
+441,"Harbor",581
+442,"Northeast",1177
+443,"Rampart",201
+444,"N Hollywood",1504
+445,"Mission",1917
+446,"Northeast",1138
+447,"West Valley",1034
+448,"Rampart",249
+449,"77th Street",1248
+450,"Southeast",1837
+451,"Central",159
+452,"Southwest",311
+453,"Southwest",393
+454,"West Valley",1017
+455,"Pacific",1459
+456,"West Valley",1044
+457,"Foothill",1621
+458,"Mission",1943
+459,"Pacific",1431
+460,"Topanga",2156
+461,"Hollywood",669
+462,"Central",134
+463,"Southeast",1841
+464,"Olympic",2002
+465,"Southeast",1871
+466,"Southwest",314
+467,"Hollywood",647
+468,"N Hollywood",1521
+469,"Wilshire",779
+470,"Northeast",1173
+471,"Southwest",379
+472,"Rampart",295
+473,"Pacific",1437
+474,"Devonshire",1701
+475,"Southeast",1836
+476,"Olympic",2049
+477,"Olympic",2014
+478,"Newton",1346
+479,"Southwest",362
+480,"Southeast",1823
+481,"Harbor",561
+482,"Devonshire",1756
+483,"Foothill",1658
+484,"Hollywood",631
+485,"West LA",853
+486,"N Hollywood",1543
+487,"Foothill",1676
+488,"Central",124
+489,"Mission",1925
+490,"Rampart",256
+491,"Rampart",236
+492,"Hollenbeck",423
+493,"Hollenbeck",451
+494,"Wilshire",749
+495,"Southwest",333
+496,"Foothill",1687
+497,"Harbor",532
+498,"Foothill",1645
+499,"Southwest",358
+500,"77th Street",1263
+501,"Rampart",204
+502,"Mission",1999
+503,"West Valley",1029
+504,"West Valley",1041
+505,"Newton",1322
+506,"Devonshire",1785
+507,"Mission",1998
+508,"Southwest",353
+509,"Topanga",2169
+510,"Devonshire",1721
+511,"West LA",899
+512,"Central",158
+513,"Olympic",2053
+514,"77th Street",1259
+515,"Foothill",1677
+516,"Topanga",2111
+517,"Topanga",2129
+518,"Hollywood",657
+519,"West LA",849
+520,"Mission",1915
+521,"Mission",1962
+522,"Harbor",585
+523,"West LA",855
+524,"Newton",1371
+525,"Hollenbeck",438
+526,"Northeast",1116
+527,"Southeast",1849
+528,"Harbor",507
+529,"Southeast",1844
+530,"Northeast",1175
+531,"N Hollywood",1546
+532,"Southeast",1803
+533,"Mission",1972
+534,"Central",164
+535,"West LA",835
+536,"Southwest",399
+537,"N Hollywood",1595
+538,"Hollenbeck",466
+539,"Southeast",1826
+540,"Wilshire",717
+541,"Hollenbeck",491
+542,"Mission",1904
+543,"Northeast",1136
+544,"77th Street",1215
+545,"Central",157
+546,"Wilshire",785
+547,"Olympic",2027
+548,"West Valley",1078
+549,"N Hollywood",1514
+550,"Mission",1994
+551,"West LA",887
+552,"Olympic",2069
+553,"Newton",1365
+554,"Wilshire",723
+555,"Devonshire",1725
+556,"Harbor",518
+557,"Northeast",1152
+558,"Van Nuys",984
+559,"Devonshire",1747
+560,"N Hollywood",1583
+561,"Devonshire",1708
+562,"Northeast",1146
+563,"Central",123
+564,"Newton",1309
+565,"Hollenbeck",449
+566,"77th Street",1204
+567,"West LA",859
+568,"Harbor",504
+569,"Newton",1331
+570,"Hollenbeck",404
+571,"West LA",897
+572,"Hollywood",659
+573,"Northeast",1117
+574,"Northeast",1162
+575,"Wilshire",733
+576,"Newton",1307
+577,"Wilshire",719
+578,"Topanga",2137
+579,"Hollywood",632
+580,"N Hollywood",1523
+581,"Central",147
+582,"Pacific",1456
+583,"N Hollywood",1532
+584,"Devonshire",1779
+585,"Southwest",338
+586,"Olympic",2073
+587,"Central",144
+588,"77th Street",1252
+589,"Devonshire",1718
+590,"N Hollywood",1547
+591,"Northeast",1171
+592,"N Hollywood",1511
+593,"Devonshire",1745
+594,"Foothill",1651
+595,"Devonshire",1765
+596,"Olympic",2015
+597,"Topanga",2145
+598,"77th Street",1249
+599,"Southwest",357
+600,"Rampart",257
+601,"West LA",827
+602,"Harbor",541
+603,"Olympic",2062
+604,"Hollywood",667
+605,"West LA",817
+606,"Southwest",373
+607,"Foothill",1669
+608,"West LA",809
+609,"Wilshire",727
+610,"West LA",824
+611,"Pacific",1472
+612,"Newton",1352
+613,"Hollenbeck",424
+614,"Topanga",2158
+615,"Van Nuys",923
+616,"N Hollywood",1538
+617,"Pacific",1483
+618,"Central",176
+619,"77th Street",1273
+620,"West Valley",1049
+621,"77th Street",1233
+622,"Devonshire",1728
+623,"Newton",1377
+624,"Southwest",331
+625,"Mission",1966
+626,"Northeast",1127
+627,"Harbor",531
+628,"Olympic",2039
+629,"Northeast",1115
+630,"Mission",1988
+631,"Newton",1347
+632,"Devonshire",1798
+633,"Topanga",2183
+634,"West Valley",1037
+635,"Harbor",519
+636,"West Valley",1097
+637,"N Hollywood",1525
+638,"Van Nuys",974
+639,"Van Nuys",952
+640,"Newton",1317
+641,"Central",155
+642,"77th Street",1243
+643,"Rampart",216
+644,"West LA",884
+645,"Newton",1381
+646,"Pacific",1468
+647,"Newton",1325
+648,"Devonshire",1723
+649,"Newton",1333
+650,"Pacific",1413
+651,"Northeast",1144
+652,"Wilshire",752
+653,"Pacific",1407
+654,"77th Street",1283
+655,"N Hollywood",1549
+656,"N Hollywood",1541
+657,"Mission",1913
+658,"West Valley",1023
+659,"Olympic",2011
+660,"Van Nuys",964
+661,"Van Nuys",901
+662,"Hollenbeck",471
+663,"Pacific",1454
+664,"N Hollywood",1505
+665,"West LA",895
+666,"Hollenbeck",459
+667,"Devonshire",1767
+668,"Pacific",1474
+669,"Topanga",2104
+670,"Topanga",2175
+671,"Wilshire",769
+672,"Pacific",1457
+673,"Southwest",376
+674,"Topanga",2172
+675,"Northeast",1126
+676,"Devonshire",1793
+677,"Rampart",241
+678,"Mission",1924
+679,"Pacific",1465
+680,"Northeast",1151
+681,"Wilshire",773
+682,"Mission",1958
+683,"Devonshire",1792
+684,"77th Street",1255
+685,"Topanga",2139
+686,"Van Nuys",937
+687,"Topanga",2102
+688,"Olympic",2017
+689,"Rampart",289
+690,"Newton",1373
+691,"N Hollywood",1589

@@ -1,0 +1,6 @@
+"status_id","status_code","status_description"
+1,"AA","Adult Arrest"
+2,"AO","Adult Other"
+3,"IC","Invest Cont"
+4,"JA","Juv Arrest"
+5,"JO","Juv Other"
